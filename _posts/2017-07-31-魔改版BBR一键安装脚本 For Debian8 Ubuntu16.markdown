@@ -7,14 +7,17 @@ categories: Skill
 ## 简介 ##
 
 BBR相信大家都不陌生，是谷歌开发的一个存在于Linux内核中的拥塞算法。为了优化国内与服务器之间的网络质量，loc的大佬专门魔改改进了下这个BBR，成为了新的BBR魔改版。我也就乘机水一篇文章好了~在Debian 8 和Ubuntu16 + 系统上一键部署魔改版BBR，自动换内核成 4.10.15 ，自动安装Headers。用户只需要将系统安装成 Debian 8 或者 Ubuntu 16 即可，剩下的交给脚本来吧。
-Github地址:[https://github.com/FunctionClub/YankeeBBR][1]
+
+ - Github地址:[https://github.com/FunctionClub/YankeeBBR][1]
+
 ![请输入图片描述][2]
 
 ## 参考资料 ##
 
-魔改BBR原帖：[http://www.hostloc.com/thread-372277-1-2.html][3]
-萌新教程: [http://www.hostloc.com/thread-372335-1-1.html][4]
-脚本技术： [https://doub.io/wlzy-16/][5]
+ - 魔改BBR原帖：[http://www.hostloc.com/thread-372277-1-2.html][3]
+ - 萌新教程: [http://www.hostloc.com/thread-372335-1-1.html][4]
+ - 脚本技术： [https://doub.io/wlzy-16/][5]
+
 **部分商家的VPS可能会遇到换内核之后无法启动系统的情况，所以请运行脚本前一定要备份好重要数据！！**
 
 ## 安装使用 ##
@@ -24,10 +27,13 @@ Github地址:[https://github.com/FunctionClub/YankeeBBR][1]
 
 安装过程中如果出现这张图片，请选择NO 来删除其他内核：
 ![请输入图片描述][6]
-然后根据提示重启系统。
-重启完成后，运行
 
+ - 然后根据提示重启系统。
+ - 重启完成后，运行
+
+```
     bash bbr.sh start
+```
 
 即可启动魔改版BBR。
 
