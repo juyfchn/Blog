@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "一个简单炫酷的彩带网页背景效果"
+date:   2017-03-01 13:46:40
+categories: Skill
+---
+树洞外链是一款免费开源的PHP外链网盘系统，界面简洁友好，支持七牛、本地、远程、阿里云OSS、又拍云五种储存方式，支持多用户系统，多上传方案策略。
+
+## 树洞外链特性 ##
+
+树洞外链让站长能以最简单的方式、最低廉的成本搭建外链服务网站而不必操心文件服务器的维护等工作。
+
+**支持多种存储方式**
+
+树洞外链允许你将文件存放在不同位置-本地服务器、远程服务器、[七牛云存储][1]、[阿里云OSS][2]、[又拍云存储][3]。你只需进行简单设置就能对接云存储服务。我们后续还将开发支持更多的存储方式。
+
+**多用户系统**
+
+用户可以注册账号管理查看已上传的文件，你也可以设置不同的用户组并通过出售用户组、邀请码获得额外收入（商业运营、邀请码系统需要购买[树洞外链商业授权][4]）。
+
+**多上传方案**
+
+你可以配置不同的上传方案并绑定至不同的用户组，实现不同用户组的文件以不同方式存储，或者不同用户组对文件有不同的限制。
+
+树洞外链 是完全开源的。它的代码托管、开发、维护都依赖 GitHub 平台。
+
+**Github项目主页：**[https://github.com/HFO4/shudong-share][5]
+
+## 演示截图： ##
+![sd1.png][6]
+![sd2.png][7]
+![sd3.jpg][8]
+
+
+  [1]: http://www.qiniu.com/
+  [2]: https://www.aliyun.com/product/oss
+  [3]: https://www.upyun.com/index.html
+  [4]: https://yun.aoaoao.me/buy.php
+  [5]: https://github.com/HFO4/shudong-share
+  [6]: http://imglf.nosdn.127.net/img/cEczVHlUNlVvWHhiRnFDVHkxd2x6NHlOUitob1ZVbndrdGg3cURmT0J1UUVTNGNPTXlEQUVnPT0.png
+  [7]: http://imglf1.nosdn.127.net/img/cEczVHlUNlVvWHhiRnFDVHkxd2x6NGE4bE5ISlBzNndZV2d3cm56OVdQTmZsM3FVdTRickxBPT0.png
+  [8]: http://imglf2.nosdn.127.net/img/cEczVHlUNlVvWHhiRnFDVHkxd2x6NkVFbzZoQlh2ZVYrT2l3ZDQ5YS9HN2FQUHlXOXJKZEdnPT0.jpg

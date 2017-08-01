@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "推荐一个很不错的动漫BT下载站"
+date:   2017-06-25 13:46:40
+categories: Share
+---
+[http://mikanani.me/][1]
+其实我也是刚刚发现
+之所以会推荐是因为用户体验好
+不像传统BT站那样要一个一个找
+而是增加了订阅
+就像是关注了,更新的时候你就看到消息,然后点击下载就可以了
+传统的都是一个大列表看得眼花缭乱
+毕竟每天的动画那么多
+字幕组也那么多
+而这个就不用浪费时间去搜索某个字幕组,某个动画了
+选择想看的新番,然后订阅
+订阅方法:点击新番图片,然后他会展开,之后可以选字幕组,点击订就可以(这是具体到字幕组的某作品)
+也可以直接点新番图片下边那个订阅,只是定位到作品,就是订阅自己个作品的所有字幕组(不推荐)
+顶部有三个进口 主页 订阅 列表
+主页就是刚刚说的,主要给我们选择订阅作品
+订阅就是查看我们订阅了的作品
+列表就是传统的BT站,找东西比较浪费时间
+![82473a0828381f3021ee4ba0ae014c086f06f0a9.png][2]
+![4db2bccb39dbb6fddb84232f0e24ab18962b3740.png][3]
+![eb5e92c379310a551bfa18fdb04543a983261041.png][4]
+
+
+  [1]: http://mikanani.me/
+  [2]: http://imglf1.nosdn.127.net/img/cEczVHlUNlVvWHhiRnFDVHkxd2x6OW5tTTdkaitFdG8wK21tbnZFVXJucU05bWYzZVZvNjRRPT0.png
+  [3]: http://imglf1.nosdn.127.net/img/cEczVHlUNlVvWHhiRnFDVHkxd2x6enhpZHg3bjBHbHJ5Q05zbzJCYXhpQ0JUY0w4Wm00dkZnPT0.png
+  [4]: http://imglf2.nosdn.127.net/img/cEczVHlUNlVvWHhiRnFDVHkxd2x6MzFRdEdmdEVjVzdUQm1qOTVjdE9uY0tEVEJmRmJqZ2FnPT0.png
