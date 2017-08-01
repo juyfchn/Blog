@@ -10,10 +10,13 @@ categories: Skill
 ![bbr.jpg][1]
 
 ## 关于本脚本 ##
+
 1、本脚本已在 Vultr 上的 VPS 全部测试通过。
 2、脚本运行完重启发现开不了机的，打开 VPS 后台控制面板的 VNC, 开机卡在 grub 引导, 手动选择内核即可。
 3、由于是使用最新版系统内核，最好请勿在生产环境安装，以免产生不可预测之后果。
+
 ## 使用方法 ##
+
 **OpenVZ 以外的（ KVM 、 Xen 、 VMware 等）**
 
     wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
